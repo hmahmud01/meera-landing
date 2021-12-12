@@ -56,3 +56,7 @@
     background-repeat: no-repeat;
     margin-top: 60px;
 }
+
+.landing-page .navbar-default .nav li a {
+    color: #676a6c;
+}
