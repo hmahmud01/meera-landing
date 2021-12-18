@@ -60,3 +60,7 @@
 .landing-page .navbar-default .nav li a {
     color: #676a6c;
 }
+
+.center-orientation .vertical-timeline-content .vertical-date{
+    top: 12px !important;
+}
