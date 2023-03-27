@@ -64,3 +64,11 @@
 .center-orientation .vertical-timeline-content .vertical-date{
     top: 12px !important;
 }
+
+.list-text > li {
+    font-size: 18px;
+}
+
+#list-text > li {
+    font-size: 12px;
+}
